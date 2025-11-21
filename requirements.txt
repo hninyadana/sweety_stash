@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+requests
+# Any other standard library you need
+pandas
+plotly
+streamlit
+pandas
+plotly
+streamlit

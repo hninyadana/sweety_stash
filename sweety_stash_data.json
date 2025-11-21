@@ -1,0 +1,35 @@
+{
+    "monthly_income": 800.0,
+    "monthly_savings_goal": 200.0,
+    "fixed_expenses": {
+        "Rent": 300.0
+    },
+    "daily_expenses": [
+        {
+            "date": "2025-11-20",
+            "amount": 5.0,
+            "category": "Food",
+            "description": "Lunch",
+            "is_big_purchase": false
+        },
+        {
+            "date": "2025-11-20",
+            "amount": 5.0,
+            "category": "Transport",
+            "description": "",
+            "is_big_purchase": false
+        }
+    ],
+    "extra_goals": {
+        "Trip to vietnam": {
+            "target": 500.0,
+            "saved": 0.0
+        }
+    },
+    "pet_name": "Sweety",
+    "saving_streak": 2,
+    "last_streak_date": "2025-11-21",
+    "daily_treat_given": false,
+    "last_treat_date": "2025-11-21",
+    "rewards_unlocked": []
+}
